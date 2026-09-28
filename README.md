@@ -1,4 +1,4 @@
-# Campus Cash
+# Calcula tu Billetera
 
 Aplicación de presupuesto semanal para estudiantes universitarios.
 
