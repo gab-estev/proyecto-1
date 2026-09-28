@@ -4,7 +4,7 @@ Aplicación de presupuesto semanal para estudiantes universitarios.
 
 ## Uso
 
-Abre `index.html` en tu navegador. Los datos se guardan localmente en ese dispositivo.
+Abre `index.html` en tu navegador. Usa solo cifras ficticias y no introduzcas contraseñas ni información sensible. Los datos se guardan únicamente en el navegador de ese dispositivo y no se comparten automáticamente con otras personas.
 
 ## Funciones
 
@@ -13,4 +13,6 @@ Abre `index.html` en tu navegador. Los datos se guardan localmente en ese dispos
 - Transporte en autobús o auto.
 - Fondo para antojos y gastos personales recurrentes.
 - Registro de gastos y resumen del saldo disponible.
+
+
 
